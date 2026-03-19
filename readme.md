@@ -57,6 +57,6 @@ Protogen - Adding to guide
 - In the backend there is still xevas link (that is down) so change that to yours (link: https://xeracompany.pythonanywhere.com/game-data-prod.zip)
 
 9. Unobfuscate
-- AI can unobfuscate but you need to remove the comments at the top or it will NOT do it! (and ask it to unhardcode all of it as it will give the same account for EVERYONE!)
+- i did this step for you!
 
 If you run into issues feel free to make an issue then I will try my best to help (i have only gotten this to work as of writing this so yeah)
