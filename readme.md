@@ -4,6 +4,7 @@ CREDITS:
 
 Xera - Developer  
 Protogen - Adding to guide
+N5 - added even more to the guide, and fixed native lib.
 
 1. Install Base APK & Gamedata
 - Use QuestAppVersionSwitcher to get target APK version
